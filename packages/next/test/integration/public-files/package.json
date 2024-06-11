@@ -3,9 +3,9 @@
     "now-build": "node create-public-file.js && next build"
   },
   "dependencies": {
-    "next": "9",
+    "next": "14",
     "react": "16",
-    "react-dom": "16"
+    "react-dom": "18"
   },
   "resolutions": {
     "@babel/compat-data": "7.21.4"
